@@ -1,0 +1,6 @@
+#Bot configuration file
+
+version = 1.2.0
+token = your bot token
+prefix = /
+admin_id = your personal discord ID
